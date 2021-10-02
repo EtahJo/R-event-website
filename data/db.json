@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "date": "11TH NOV",
+      "title": "Sunday Supper Club",
+      "des": "A culinary event with foods from all over the world.This is a weekly club you can join for a small fee.Learn cooking methods from top chef...",
+      "link": "/details",
+      "time": "16:00-19:00",
+      "place": "144WElm St,Chicago,IL 60610,USA"
+    },
+    {
+      "id": 2,
+      "date": "13TH NOV",
+      "title": "Evenings in the Park",
+      "des": "We invite you to listen to live bands play beautiful music in the park.Enjoy the sounds of Laureen Davis and the Kings,and enjoy wine tast...",
+      "link": "/details",
+      "time": "06:30-08:30",
+      "place": "Estuary Park"
+    },
+    {
+      "id": 3,
+      "date": "15TH NOV",
+      "title": "Morning Brews & Views",
+      "des": "Enjoy free samples of our latest brews while overlooking the beautiful sites of our city.Plenty of iced and hot teas,plus gourmet coffee d...",
+      "link": "/details",
+      "time": "08:00-15:00",
+      "place": "The Teapot and Brew Club"
+    }
+  ]
+}

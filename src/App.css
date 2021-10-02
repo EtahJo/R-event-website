@@ -1,0 +1,57 @@
+.App {
+*margin: 0 auto;
+background: rgb(0, 0, 0);
+*text-align: center;
+padding: 10px;
+overflow-x: hidden;
+
+  
+}
+.contact {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    
+  }
+  .contact label {
+    text-align: left;
+    display: block;
+    padding-left:10px;
+  }
+  .contact h2 {
+    font-size: 20px;
+    color: orange;
+    margin-bottom: 30px;
+  }
+  .contact input, .contact textarea, .contact select {
+    width: 95%;
+    padding: 6px 10px;
+    margin: 10px 10px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+  }
+  .contact button {
+    background: orange;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  /* thank you message */
+  .thanks{
+    background:white;
+    text-align: center;
+    max-width: 300px;
+    margin:0 auto ;
+
+  }
+  .thanks h2{
+    color:var(--primary);
+    background: black;
+    
+  }
+  .thanks p {
+    color: black;
+  }
