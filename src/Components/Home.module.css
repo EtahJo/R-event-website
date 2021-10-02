@@ -154,6 +154,11 @@ p{
         grid-row: 6;
     
     }
+    .grid i {
+        bottom:-210px;
+        right: 80px;
+        position:absolute;
+    }
    
     
 }
@@ -200,6 +205,9 @@ p{
         text-align: right;
        
     
+    }
+    .grid i {
+        display: none;
     }
     
 }
